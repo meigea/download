@@ -5,6 +5,10 @@
 [![License][license-image]][license-url] 
 [![CDNJS](https://img.shields.io/cdnjs/v/downloadjs.svg)](https://cdnjs.com/libraries/downloadjs)
 
+-------------------------
+## Meigea-ADD : What hekp me to download file from a `Authorization:JWT ` header
+[stackoverflow-solved-and-desc](https://stackoverflow.com/questions/4325968/window-open-with-headers/53369663#53369663)
+-------------------------
 
 ## Summary
 ---------
@@ -126,7 +130,6 @@ You can expect it to work for the vast majority of your users, with some common-
 * 2016 :: 4.2 added large dataURL support, a more semantic codebase, and hidden temp links
 * 2017 :: added support for empty dataURLs
 * 20XX :: ???? Considering Zip, Tar, and other multi-file outputs, Blob.prototype.download option, and more, stay tuned folks.
-
 
 [MIT license]: http://opensource.org/licenses/MIT
 [npm-image]: https://badge.fury.io/js/downloadjs.svg
